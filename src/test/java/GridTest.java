@@ -7,7 +7,7 @@ class GridTest {
     @Test
     void geracaoDoGridTest(){
         Grid gridCerquilha  = new Grid();
-
+        System.out.println("Testando geração do grid");
         String expectativa = """
                 1|2|3
                 4|5|6
