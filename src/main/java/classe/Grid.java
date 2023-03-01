@@ -2,7 +2,7 @@ package classe;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//TODO melhorar classe
 public class Grid {
 
     public Map<String, String> cerquilha = new HashMap<>();
